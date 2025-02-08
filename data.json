@@ -1,0 +1,23 @@
+{
+  "course_title":"Effective Programming in C and C++",
+  "course_description":"This course is a fast-paced introduction to the C and C++ programming languages, with an emphasis on good programming practices and how to be an effective programmer in these languages. Topics include object-oriented programming, memory management, advantages of C and C++, optimization, and others. Students are given weekly coding assignments and a final project to hone their skills. Recommended for programmers with some background and experience in other languages.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "course_description_html":"<p>This course is a fast-paced introduction to the C and C++ programming languages, with an emphasis on good programming practices and how to be an effective programmer in these languages. Topics include object-oriented programming, memory management, advantages of C and C++, optimization, and others. Students are given weekly coding assignments and a final project to hone their skills. Recommended for programmers with some background and experience in other languages.</p>\n<p>This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.</p>\n",
+  "site_uid":"c020e397-e5c8-4b28-badb-e7c205f29928",
+  "legacy_uid":"92d1668c-e575-d6fd-68db-e7ebabcc2d66","instructors": [{
+    "first_name":"Andre",
+    "last_name":"Kessler",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Andre Kessler"}],"department_numbers":["6"],
+  "learning_resource_types":["Problem Sets with Solutions","Lecture Notes","Programming Assignments with Examples"],
+  "topics":[["Engineering","Computer Science","Programming Languages"],["Engineering","Computer Science","Software Design and Engineering"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.S096",
+  "extra_course_numbers":"",
+  "term":"January IAP",
+  "year":"2014",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/d53719a1ec6b7082a02269813d83dced_6-s096iap14.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"This course introduces various advantages of C and C++, one of which is visualization involving OpenGL. C++/OpenGL were used to create the above graphic. (Image courtesy of onedayitwillmake on Flickr. Under CC-BY.)","draft":false,"file":"/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/d53719a1ec6b7082a02269813d83dced_6-s096iap14.jpg","file_size":118736,"file_type":"image/jpeg","image_metadata":{"caption":"This course introduces various advantages of C and C++, one of which is visualization involving OpenGL. C++/OpenGL were used to create the above graphic. (Image courtesy of [onedayitwillmake](https://www.flickr.com/photos/58328128@N00/4728423649/) on Flickr. Under CC-BY.)","credit":"Image courtesy of onedayitwillmake on Flickr. Under CC-BY.","image-alt":"Multiple colored lines on a black background."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-s096iap14.jpg","uid":"d53719a1-ec6b-7082-a022-69813d83dced"}}
+

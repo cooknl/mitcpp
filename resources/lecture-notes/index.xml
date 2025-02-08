@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction to C</title>
+      <link>/resources/mit6_s096iap14_lecture1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture1/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 1.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Course Recap, Interviews, Advanced Topics</title>
+      <link>/resources/mit6_s096iap14_lecture10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture10/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 10.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Subtleties of C</title>
+      <link>/resources/mit6_s096iap14_lecture2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture2/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 2.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Assembly</title>
+      <link>/resources/mit6_s096iap14_lecture3a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture3a/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Secure Programming in C</title>
+      <link>/resources/mit6_s096iap14_lecture3s/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture3s/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Style and Structure</title>
+      <link>/resources/mit6_s096iap14_lecture4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture4/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 4.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Object-Oriented C&#43;&#43;</title>
+      <link>/resources/mit6_s096iap14_lecture5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture5/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 5.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Design Patterns</title>
+      <link>/resources/mit6_s096iap14_lecture6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture6/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 6.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Introduction to Projects</title>
+      <link>/resources/mit6_s096iap14_lecture7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture7/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 7.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Project Environments</title>
+      <link>/resources/mit6_s096iap14_lecture8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture8/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 8.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Visualization</title>
+      <link>/resources/mit6_s096iap14_lecture9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_lecture9/data.json</guid>
+      <description>This is a resource file that contains information regarding lecture 9.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>LEC # LECTURE TOPICS SUPPORTING FILES 1 Introduction to C: Welcome to the Memory Jungle (PDF) Lecture 1 Examples (ZIP) (This Zip folder contains: 7 .c files and 1 file): diagnostic, hello, loop1, loop2, pointer, prime, printstr 2 Subtleties of C: Data Structures and Floating-Point Arithmetic (PDF) Lecture 2 Examples (ZIP) (This Zip folder contains: 7 .c files): align, alloc, badsize, limited, sizeof, struct, tree 3 Assembly (PDF)
+Courtesy of Daniel Kang.</description>
+    </item>
+    
+    <item>
+      <title>lecture01-examples.zip</title>
+      <link>/resources/lecture01-examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture01-examples/data.json</guid>
+      <description>This is a special file that contains information regarding lecture 1.</description>
+    </item>
+    
+    <item>
+      <title>lecture02-examples.zip</title>
+      <link>/resources/lecture02-examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture02-examples/data.json</guid>
+      <description>This is a special file that contains information regarding lecture 2.</description>
+    </item>
+    
+    <item>
+      <title>lecture04-examples.zip</title>
+      <link>/resources/lecture04-examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture04-examples/data.json</guid>
+      <description>This is a special file that contains information regarding lecture 4.</description>
+    </item>
+    
+    <item>
+      <title>lecture05-examples.zip</title>
+      <link>/resources/lecture05-examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture05-examples/data.json</guid>
+      <description>This is a special file that contains information regarding lecture 5.</description>
+    </item>
+    
+    <item>
+      <title>lecture06-examples.zip</title>
+      <link>/resources/lecture06-examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture06-examples/data.json</guid>
+      <description>This is a special file that contains information regarding lecture 6.</description>
+    </item>
+    
+    <item>
+      <title>Vector3.h</title>
+      <link>/resources/vector3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/vector3/data.json</guid>
+      <description>This is a special file related to lecture 8 and 9.</description>
+    </item>
+    
+  </channel>
+</rss>

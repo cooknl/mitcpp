@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 1, Problem 1: Floating Point</title>
+      <link>/resources/mit6_s096iap14_ass1_p1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass1_p1/data.json</guid>
+      <description>This resource file contains information regarding floating point.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1, Problem 2: Matrix Manipulation</title>
+      <link>/resources/mit6_s096iap14_ass1_p2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass1_p2/data.json</guid>
+      <description>This resource file contains information regarding matrix manipulation.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1, Problem 3: Matrix Manipulation 2</title>
+      <link>/resources/mit6_s096iap14_ass1_p3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass1_p3/data.json</guid>
+      <description>This resource file contains information regarding matrix manipulation 2.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1, Problem 4: Transposition Cipher</title>
+      <link>/resources/mit6_s096iap14_ass1_p4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass1_p4/data.json</guid>
+      <description>This resource file contains information regarding transposition cipher.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2, Problem 1: Linked List Library</title>
+      <link>/resources/mit6_s096iap14_ass2_p1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass2_p1/data.json</guid>
+      <description>This resource file contains information regarding linked list library.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2, Problem 2: Minimum Spanning Tree</title>
+      <link>/resources/mit6_s096iap14_ass2_p2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass2_p2/data.json</guid>
+      <description>This resource file contains information regarding minimum spanning tree.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2, Problem 3: Rational Number Library</title>
+      <link>/resources/mit6_s096iap14_ass2_p3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass2_p3/data.json</guid>
+      <description>This resource file contains information regarding rational number library.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 3, Problem 1: C&#43;&#43; Linked List Library</title>
+      <link>/resources/mit6_s096iap14_ass3_p1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_s096iap14_ass3_p1/data.json</guid>
+      <description>This resource file contains information regarding C++ linked list library.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>ASSIGNMENTS SUPPORTING FILES Assignment 1 Problem 1: Floating Point (PDF)
+Sample Solution to Assignment 1, Problem 1
+Test data: floating.data (ZIP) (This ZIP file contains: 7 .in files and 7 .out files.) Problem 2: Matrix Manipulation (PDF)
+Sample Solution to Assignment 1, Problem 2
+Test data: matrix.data (ZIP) (This ZIP file contains: 10 .in files and 10 .out files.) Problem 3: Matrix Manipulation 2 (PDF)
+Sample Solution to Assignment 1, Problem 3</description>
+    </item>
+    
+    <item>
+      <title>cpplist.zip</title>
+      <link>/resources/cpplist/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/cpplist/data.json</guid>
+      <description>This is a supporting file that contains information regarding C++ linked list library.</description>
+    </item>
+    
+    <item>
+      <title>floating.data.zip</title>
+      <link>/resources/floating-data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/floating-data/data.json</guid>
+      <description>This is a supporting file that contains information regarding floating point.</description>
+    </item>
+    
+    <item>
+      <title>list.zip</title>
+      <link>/resources/list/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/list/data.json</guid>
+      <description>This is a supporting file that contains information regarding linked list library.</description>
+    </item>
+    
+    <item>
+      <title>matrix.data.zip</title>
+      <link>/resources/matrix-data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/matrix-data/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mst.data.zip</title>
+      <link>/resources/mst-data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mst-data/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nbody.zip</title>
+      <link>/resources/nbody/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/nbody/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rational.zip</title>
+      <link>/resources/rational/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rational/data.json</guid>
+      <description>This is a supporting file that contains information regarding rational number library.</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 1, Problem 1</title>
+      <link>/pages/assignments/sample-solution-to-assignment-1-problem-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-1-problem-1/data.json</guid>
+      <description>« Back to Assignments
+/* PROG: floating LANG: C */ #include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;math.h&amp;gt; #define ABSOLUTE_WIDTH 31 #define MANTISSA_WIDTH 23 #define EXPONENT_WIDTH 8 #define EXPONENT_MASK 0xffu #define MANTISSA_MASK 0x007fffffu #define EXPONENT_BIAS 127 union float_bits { float f; uint32_t bits; }; void print_float( FILE *output, float f ) { union float_bits t; t.f = f; uint32_t sign_bit = ( t.bits &amp;gt;&amp;gt; ABSOLUTE_WIDTH ); uint32_t exponent = ( t.</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 1, Problem 2</title>
+      <link>/pages/assignments/sample-solution-to-assignment-1-problem-2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-1-problem-2/data.json</guid>
+      <description>« Back to Assignments
+/* PROG: matrix LANG: C */ #include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #define MAXN 300 typedef struct Matrix { size_t R, C; int index[MAXN][MAXN]; } Matrix; void read_matrix( FILE *fin, Matrix *matrix ) { fscanf( fin, &amp;#34;%zu %zu&amp;#34;, &amp;amp;matrix-&amp;gt;R, &amp;amp;matrix-&amp;gt;C ); if( matrix-&amp;gt;R &amp;gt;= MAXN || matrix-&amp;gt;C &amp;gt;= MAXN ) { printf( &amp;#34;Error: tried to read matrix with a dimension larger than %d\n&amp;#34;, MAXN ); exit( EXIT_FAILURE ); } for( size_t r = 0; r &amp;lt; matrix-&amp;gt;R; ++r ) { for( size_t c = 0; c &amp;lt; matrix-&amp;gt;C; ++c ) { fscanf( fin, &amp;#34;%d&amp;#34;, &amp;amp;matrix-&amp;gt;index[r][c] ); } } } void print_matrix( FILE *fout, Matrix *matrix ) { fprintf( fout, &amp;#34;%zu %zu\n&amp;#34;, matrix-&amp;gt;R, matrix-&amp;gt;C ); for( size_t r = 0; r &amp;lt; matrix-&amp;gt;R; ++r ) { for( size_t c = 0; c &amp;lt; matrix-&amp;gt;C - 1; ++c ) { fprintf( fout, &amp;#34;%d &amp;#34;, matrix-&amp;gt;index[r][c] ); } fprintf( fout, &amp;#34;%d\n&amp;#34;, matrix-&amp;gt;index[r][matrix-&amp;gt;C - 1] ); } } void mult_matrix( Matrix *a, Matrix *b, Matrix *prod ) { if( a-&amp;gt;C !</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 1, Problem 3</title>
+      <link>/pages/assignments/sample-solution-to-assignment-1-problem-3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-1-problem-3/data.json</guid>
+      <description>« Back to Assignments
+/* PROG: matrix2 LANG: C */ #include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;string.h&amp;gt; typedef struct Matrix_s { size_t R, C; int *index; } Matrix; Matrix* allocate_matrix( size_t R, size_t C ) { Matrix *matrix = malloc( sizeof( Matrix ) ); matrix-&amp;gt;R = R; matrix-&amp;gt;C = C; matrix-&amp;gt;index = malloc( R * C * sizeof( int ) ); return matrix; } void destroy_matrix( Matrix *matrix ) { free( matrix-&amp;gt;index ); free( matrix ); } typedef enum { REGULAR = 0, TRANSPOSE = 1 } Transpose; // Allowing reading a matrix in as either regular or transposed Matrix* read_matrix( FILE *input, Transpose orient ) { size_t R, C; fscanf( input, &amp;#34;%zu %zu&amp;#34;, &amp;amp;R, &amp;amp;C ); Matrix *matrix = NULL; if( orient == REGULAR ) { matrix = allocate_matrix( R, C ); for( size_t r = 0; r &amp;lt; matrix-&amp;gt;R; ++r ) { for( size_t c = 0; c &amp;lt; matrix-&amp;gt;C; ++c ) { fscanf( input, &amp;#34;%d&amp;#34;, &amp;amp;matrix-&amp;gt;index[c + r * C] ); } } } else if( orient == TRANSPOSE ) { matrix = allocate_matrix( C, R ); for( size_t r = 0; r &amp;lt; matrix-&amp;gt;C; ++r ) { for( size_t c = 0; c &amp;lt; matrix-&amp;gt;R; ++c ) { fscanf( input, &amp;#34;%d&amp;#34;, &amp;amp;matrix-&amp;gt;index[r + c * R] ); } } } else { fprintf( stderr, &amp;#34;Error: unknown orientation %d.</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 2, Problem 1</title>
+      <link>/pages/assignments/sample-solution-to-assignment-2-problem-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-2-problem-1/data.json</guid>
+      <description>« Back to Assignments
+#include &amp;lt;&amp;#34;list.h&amp;#34;&amp;gt; #include &amp;lt;stdio.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; struct List_node_s { List_node *next; int value; }; List empty_list( void ) { return (List) { .length = 0, .front = NULL }; } List_node* create_node( int value ) { List_node *new_node = malloc( sizeof( List_node ) ); new_node-&amp;gt;value = value; new_node-&amp;gt;next = NULL; return new_node; } void list_append( List *list, int value ) { if( list-&amp;gt;front == NULL ) { list-&amp;gt;front = create_node( value ); } else { List_node *p = list-&amp;gt;front; for( size_t i = 1; i &amp;lt; list-&amp;gt;length; ++i, p = p-&amp;gt;next ); p-&amp;gt;next = create_node( value ); } ++list-&amp;gt;length; } void list_delete_from_front( List *list, int value ) { List_node *front = list-&amp;gt;front; while( front !</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 2, Problem 2</title>
+      <link>/pages/assignments/sample-solution-to-assignment-2-problem-2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-2-problem-2/data.json</guid>
+      <description>« Back to Assignments
+/* PROG: mst LANG: C++ */ #include &amp;lt;vector&amp;gt; #include &amp;lt;queue&amp;gt; #include &amp;lt;fstream&amp;gt; #include &amp;lt;iostream&amp;gt; #include &amp;lt;iomanip&amp;gt; #include &amp;lt;unordered_map&amp;gt; class State { size_t _node; double _dist; public: State( size_t aNode, double aDist ) : _node{aNode}, _dist{aDist} {} inline size_t node()const { return _node; } inline double dist()const { return _dist; } }; class AdjacencyList { std::vector&amp;lt; std::vector&amp;lt; State&amp;gt; &amp;gt; _adj; AdjacencyList() = delete; public: AdjacencyList( std::istream &amp;amp;input ); inline size_t size() const { return _adj.</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 2, Problem 3</title>
+      <link>/pages/assignments/sample-solution-to-assignment-2-problem-3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-2-problem-3/data.json</guid>
+      <description>« Back to Assignments
+Here are the contents of rational.h: #ifndef _6S096_RATIONAL_H #define _6S096_RATIONAL_H #include &amp;lt;cstdint&amp;gt; #include &amp;lt;iosfwd&amp;gt; #include &amp;lt;stdexcept&amp;gt; class Rational { intmax_t _num, _den; public: enum sign_type { POSITIVE, NEGATIVE }; Rational() : _num{0}, _den{1} {} Rational( intmax_t numer ) : _num{numer}, _den{1} {} Rational( intmax_t numer, intmax_t denom ) : _num{numer}, _den{denom} { normalize(); } inline intmax_t num() const { return _num; } inline intmax_t den() const { return _den; } void normalize(); float to_float()const; double to_double()const; sign_type sign() const; Rational inverse() const; }; std::ostream&amp;amp; operator&amp;lt;&amp;lt;( std::ostream&amp;amp; os, const Rational &amp;amp;ratio ); inline bool operator==( const Rational &amp;amp;lhs, const Rational &amp;amp;rhs ) { return lhs.</description>
+    </item>
+    
+    <item>
+      <title>Sample Solution to Assignment 3, Problem 1</title>
+      <link>/pages/assignments/sample-solution-to-assignment-3-problem-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/sample-solution-to-assignment-3-problem-1/data.json</guid>
+      <description>« Back to Assignments
+Look in list.h for a sense of the structure of the solution. The big idea to speed up the reduce/apply functions while also giving users a nice way to iterate over the items in the list is to create an &amp;ldquo;iterator&amp;rdquo; type within our class. Users will be able to write code similar to the STL:
+// Print out every item in the list for( List::iterator it = list.</description>
+    </item>
+    
+  </channel>
+</rss>
